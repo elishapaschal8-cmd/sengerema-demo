@@ -1,0 +1,13 @@
+> Ultra-realistic documentary photograph of a pole-mounted electrical distribution transformer installed in a rural Tanzanian community, properly mounted on sturdy utility poles with realistic electrical cables and safety components, rural East African landscape in the background, a few houses and trees visible in the distance, natural daylight, authentic African environment, professional electrical engineering photography, technically accurate infrastructure, premium corporate visual style, sharp details, realistic textures, 16:9 wide composition, no text, no logos, no watermark.
+
+Maintain a consistent visual identity across the entire image series: premium Tanzanian engineering company, realistic East African environment, documentary photography, sophisticated corporate aesthetic, natural lighting, deep navy and subtle warm golden visual mood, realistic materials, authentic infrastructure, no exaggerated futuristic technology, no generic European scenery, no American suburban environment, no text, no logos, no watermark.
+
+Recommended royalty-free search queries (Unsplash / Pexels):
+- "pole mounted transformer Africa"  
+- "distribution transformer rural"  
+- "utility pole transformer close"  
+
+License guidance: Prefer images from Unsplash or Pexels (commercial use allowed, usually no attribution required). Confirm license and model/property releases before public use. If using Wikimedia Commons, check the exact Creative Commons license and provide required attribution.
+
+Target filename: transformer.jpg
+Caption to display on site: "Representative project imagery" or "Illustrative visual" (required for demo).
