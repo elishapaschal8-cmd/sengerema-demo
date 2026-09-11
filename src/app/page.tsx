@@ -316,6 +316,7 @@ export default function Home() {
             alt={heroImages[lang].alt}
             fill
             priority
+            sizes="100vw"
             className="object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-navy via-navy/85 to-navy/70" />
@@ -436,6 +437,7 @@ export default function Home() {
                 alt="Electrical power substation and high voltage infrastructure"
                 width={900}
                 height={780}
+                sizes="(max-width: 1024px) 100vw, 50vw"
                 className="h-[500px] w-full object-cover"
               />
             </div>
@@ -539,9 +541,11 @@ export default function Home() {
                 <div className="h-52 w-full overflow-hidden bg-slate-100">
                   <Image
                     src={project.image}
-                    alt="Electrical infrastructure project site"
+                    alt={`${project.region[lang]} — representative project imagery`}
                     width={1200}
                     height={800}
+                    sizes="(max-width: 1024px) 100vw, 50vw"
+                    unoptimized
                     className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                   />
                 </div>

@@ -9,7 +9,6 @@ export const metadata: Metadata = {
   title: 'Sengerema Engineering Group Ltd | Electrical & Engineering Solutions Tanzania',
   description:
     'Sengerema Engineering Group Ltd delivers electrical infrastructure, rural electrification, power distribution and engineering solutions across Tanzania.',
-  metadataBase: new URL('https://example.com'),
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
